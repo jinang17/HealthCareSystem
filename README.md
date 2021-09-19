@@ -1,3 +1,1 @@
 # HealthCareSystem
-Ganpatti bappa morya
-
